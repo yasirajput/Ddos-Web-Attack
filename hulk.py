@@ -5,7 +5,7 @@
 # to their knees by exhausting the resource pool, its is meant for research purposes only
 # and any malicious usage of this tool is prohibited.
 #
-# author :  Barry Shteiman , version 1.0
+# author :  Barry Shteiman , version 1.1
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys

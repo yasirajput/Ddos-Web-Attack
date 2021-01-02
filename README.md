@@ -1,4 +1,4 @@
-Hulk DoS tool
+DdoS Web Attack(Rajput)
 =============
 
 HULK DoS tool ported to Go language from Python. 

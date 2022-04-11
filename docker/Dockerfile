@@ -10,4 +10,3 @@ RUN apk add --no-cache git \
 ENTRYPOINT ["hulk"]
 
 CMD ["--help"]
-.

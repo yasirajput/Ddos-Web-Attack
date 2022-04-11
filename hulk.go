@@ -230,3 +230,4 @@ func buildblock(size int) (s string) {
 	}
 	return string(a)
 }
+

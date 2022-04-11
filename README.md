@@ -39,4 +39,3 @@ I have choose GPL for it. Okey. So, Go version of HULK licensed under GPLv3. See
 
 I am not related with original HULK utility in Python. Original HULK utility is authority of Barry Shteiman (http://sectorix.com). There are not any references to license in the original source then it is not under GPL. Ask author of the original utility about license. 
  
-
